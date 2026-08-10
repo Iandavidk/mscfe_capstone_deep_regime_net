@@ -1,0 +1,29 @@
+# Deep-RegimeNet — Python dependencies
+# Install with: pip install -r requirements.txt
+# Tested on Google Colab T4 GPU, Python 3.9+
+
+# Deep learning
+torch>=2.0.0
+
+# Data download
+yfinance>=0.2.40
+
+# Machine learning and clustering
+scikit-learn>=1.3.0
+hmmlearn>=0.3.0
+tslearn>=0.6.3
+
+# Dimensionality reduction
+umap-learn>=0.5.3
+
+# Data manipulation
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Visualisation
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Notebook environment
+jupyter>=1.0.0
+ipykernel>=6.0.0
